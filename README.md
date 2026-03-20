@@ -107,7 +107,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 &nbsp;
-<a href="mailto:vinayvaja2276@gmail.com">
+<a href="/cdn-cgi/l/email-protection#bec8d7d0dfc7c8dfd4df8c8c8988fed9d3dfd7d290ddd1d3">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
@@ -118,41 +118,52 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinay-vaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Vinay-vaja&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-vaja&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinay-vaja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vinay-vaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-vaja&layout=donut&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
-</div>
-
----
-
-## ✍️ Developer Quote
+## 🎯 Coding Profiles
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://leetcode.com/Vinay-vaja">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/Vinay-vaja">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Vinay-vaja">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/Vinay-vaja">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">⭐ <b>If you like my projects, consider giving them a star!</b> ⭐</p>
+## 🗺️ Contribution Map
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/36BCF7/Vinay-vaja" alt="Vinay's Contribution Chart" />
+</p>
+
+---
+
+<p align="center">⭐ <b>If you like my proje
