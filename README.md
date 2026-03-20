@@ -12,41 +12,55 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 **CSE Student at LD College of Engineering (GTU)**
-- 💻 Passionate about **Full Stack Web Development**
-- 📚 Practicing **C++ Data Structures & Algorithms**
-- 🌱 Currently learning **Node.js, Express.js & MongoDB**
-- 🚀 Building **Real World Web Projects**
-- 🤝 Open to **Open Source Collaboration**
-
----
-
-# 🚀 Current Focus
-
-🔭 Working on  
-- Full Stack Web Applications  
-- Real-world Projects  
-
-🌱 Learning  
-- **React**
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **Advanced DSA**
-
-💬 Ask me about  
-- C / C++  
-- JavaScript  
-- Web Development  
-- Backend Development  
+| 🎓 | CSE Student at **LD College of Engineering (GTU)** |
+|---|---|
+| 💻 | Passionate about **Full Stack Web Development** |
+| 📚 | Practicing **C++ Data Structures & Algorithms** |
+| 🌱 | Currently learning **Node.js, Express.js & MongoDB** |
+| 🚀 | Building **Real World Web Projects** |
+| 🤝 | Open to **Open Source Collaboration** |
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Current Focus
 
-## 👨‍💻 Programming Languages
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔭 Working On
+- Full Stack Web Applications
+- Real-world Projects
+
+</td>
+<td valign="top" width="33%">
+
+### 🌱 Learning
+- React & React Router
+- Node.js & Express.js
+- MongoDB
+- Advanced DSA
+
+</td>
+<td valign="top" width="33%">
+
+### 💬 Ask Me About
+- C / C++
+- JavaScript
+- Web Development
+- Backend Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,9 +68,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
-
-## 🌐 Frontend Development
+### 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,31 +76,23 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
-## ⚙️ Backend Development
+### ⚙️ Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
 
----
-
-## 🗄 Databases
+### 🗄 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## ☁️ Deployment & Hosting
+### ☁️ Deployment
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
----
-
-## 🎨 Design Tools
+### 🎨 Design Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -96,17 +100,17 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vinay-vaja-jk1071472276" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
+&nbsp;
 <a href="mailto:vinayvaja2276@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://instagram.com/vinayyy_vaja">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -114,38 +118,41 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinay-vaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Vinay-vaja&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinay-vaja&show_icons=true&theme=tokyonight"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Vinay-vaja&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-vaja&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-vaja&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Vinay-vaja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinay-vaja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
 </div>
 
 ---
 
-# ✍️ Developer Quote
+## ✍️ Developer Quote
 
-> **"Keep learning, keep building, and never stop improving." 🚀**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ **If you like my projects, consider giving them a star!**
+<p align="center">⭐ <b>If you like my projects, consider giving them a star!</b> ⭐</p>
