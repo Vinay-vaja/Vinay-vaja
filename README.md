@@ -17,10 +17,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🧑‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
@@ -41,10 +37,6 @@ Goal     : Build impactful real-world applications
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    CURRENT FOCUS                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🚀 Current Focus
 
 <table width="100%">
@@ -52,7 +44,7 @@ Goal     : Build impactful real-world applications
 <td width="33%" valign="top">
 
 ### 🔭 Building
-- Full Stack Web Apps
+- Full Stack Web Applications
 - MERN Stack Projects
 - REST APIs
 
@@ -70,7 +62,7 @@ Goal     : Build impactful real-world applications
 
 ### 💬 Ask Me About
 - C / C++ & DSA
-- JavaScript & ES6+
+- JavaScript (ES6+)
 - Frontend Development
 - Backend with Node.js
 
@@ -79,10 +71,6 @@ Goal     : Build impactful real-world applications
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -103,7 +91,7 @@ Goal     : Build impactful real-world applications
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
@@ -127,36 +115,26 @@ Goal     : Build impactful real-world applications
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinay-vaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinay-vaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-vaja&layout=donut&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Vinay%20Vaja%20Contribution%20Graph" width="95%"/>
+
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  CODING PROFILES                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🎯 Coding Profiles
 
@@ -171,10 +149,6 @@ Goal     : Build impactful real-world applications
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   CONNECT WITH ME                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect With Me
 
@@ -192,15 +166,11 @@ Goal     : Build impactful real-world applications
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                       FOOTER                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-**⭐ If you find my work helpful, consider giving a star to my repositories!**
+⭐ If you find my work helpful, consider giving a star to my repositories!
 
 *"Keep learning, keep building, and never stop improving." 🚀*
 
