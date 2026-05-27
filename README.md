@@ -1,249 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinay%20Vaja&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Vinay%20Vaja&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20CSE%20@%20LD%20College%20(GTU)&descAlignY=58&descSize=15"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=550&lines=👨‍💻+Full+Stack+Web+Developer;📚+DSA+with+C%2B%2B+Enthusiast;🚀+Building+Real+World+Projects;🌱+Learning+MERN+Stack;🤖+Exploring+AI+%26+LangChain;🤝+Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+production-grade+MERN+applications;Integrating+AI+with+LangChain+%26+RAG+pipelines;Competitive+programmer+%7C+DSA+with+C%2B%2B;Turning+ideas+into+scalable+full-stack+products" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vinay-vaja&label=Profile+Views&color=36BCF7&style=for-the-badge)](https://github.com/Vinay-vaja)
-[![GitHub followers](https://img.shields.io/github/followers/Vinay-vaja?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1b27)](https://github.com/Vinay-vaja?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vinay-vaja&label=Profile+Views&color=36BCF7&style=flat-square)](https://github.com/Vinay-vaja)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Vinay-vaja?label=Followers&style=flat-square&color=36BCF7)](https://github.com/Vinay-vaja?tab=followers)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinay-vaja-jk1071472276)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-vinayvaja2276@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayvaja2276@gmail.com)
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
-```yaml
-Name     : Vinay Vaja
-College  : LD College of Engineering (GTU)
-Degree   : B.E. Computer Science & Engineering
-Location : Gujarat, India 🇮🇳
-
-Passion  : Full Stack Web Development
-Currently: Learning MERN Stack + AI/ML Integration
-Hobbies  : Coding, Problem Solving, Open Source
-Goal     : Build impactful real-world applications
-```
-
-<br clear="right"/>
+<br/>
 
 ---
 
-## 🚀 Current Focus
+## About Me
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+Hey 👋 I'm Vinay, a CSE student at LD College of Engineering (GTU), Gujarat. I enjoy building full-stack apps, experimenting with AI tools, and turning random ideas into real projects.
 
-### 🔭 Building
-- Full Stack Web Applications
-- MERN Stack Projects
-- REST APIs
-- AI-Integrated Applications
+Currently exploring MERN stack, LangChain/RAG, and AI-powered web apps while improving my DSA & backend skills. Mostly building, learning, breaking things, and fixing them again 🚀
 
-</td>
-<td width="33%" valign="top">
+- 💻 Building cool full-stack MERN projects  
+- 🤖 Exploring AI + web development stuff  
+- ⚡ Solving DSA problems in C++  
+- 📫 Reach me at: **vinayvaja2276@gmail.com**
 
-### 🌱 Learning
-- React.js & React Router
-- Node.js & Express.js
-- MongoDB & PostgreSQL
-- LangChain & RAG Pipelines
-- Advanced DSA (C++)
-
-</td>
-<td width="33%" valign="top">
-
-### 💬 Ask Me About
-- C / C++ & DSA
-- JavaScript (ES6+)
-- Frontend Development
-- Backend with Node.js
-- LangChain & AI Workflows
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark&perline=6" />
 
-### 🌐 Frontend
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" />
+**Frontend &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Databases**
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,express,fastapi,mongodb,mysql,postgres&theme=dark&perline=11" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark" />
+<br/><br/>
 
-### 🤖 AI / ML
+**AI / ML &nbsp;·&nbsp; Tools &nbsp;·&nbsp; Cloud**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma,netlify,vercel&theme=dark&perline=7" />
+
 &nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
-
-### ☁️ Deployment & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel&theme=dark" />
-&nbsp;
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-### 🎨 Design
-
-<img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" />
-&nbsp;
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
-<table width="100%">
+<br/>
 
-<tr>
-<td width="100%" valign="top">
+### 💬 ChatNova — Real-Time Chat & Video Calling Platform
 
-### 💬 ChatNova – Real-Time Chat & Video Calling Platform
+> Full-stack MERN communication platform with real-time messaging, HD video calling, and 32 switchable UI themes. Built with production-grade auth and cloud media handling.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+`React` `Node.js` `Express` `MongoDB` `Stream SDK` `TailwindCSS` `JWT` `Cloudinary`
 
-> A production-grade MERN application enabling real-time messaging and HD video calling between users, with a fully responsive multi-themed interface.
+- Architected end-to-end real-time messaging and HD video calling using Stream SDK
+- Implemented layered authentication — JWT sessions, OTP verification, bcrypt hashing, and password reset flow
+- Integrated Cloudinary for scalable media uploads with optimized delivery
+- Delivered 32 live-switchable themes via TailwindCSS + DaisyUI with fully protected routes and clean state management
 
-**Key Highlights:**
-- 🔐 Secure auth with JWT, OTP verification, password reset & bcrypt hashing
-- 📹 HD video calling integration via Stream SDK with low-latency communication
-- 🎨 32 switchable UI themes built with TailwindCSS + DaisyUI
-- ☁️ Cloud media uploads & storage managed through Cloudinary
-- ⚡ Optimized REST APIs, protected routes & efficient state management
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Vinay-vaja)
 
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="100%" valign="top">
+---
 
-### 🏥 Cura – Smart Hospital Appointment Management System
+### 🏥 Cura — Smart Hospital Appointment Management System
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+> Role-based healthcare platform enabling patients, doctors, and admins to manage appointments through dedicated, responsive dashboards and secure API workflows.
 
-> A full-stack healthcare platform streamlining hospital appointment scheduling with role-based portals for patients, doctors, and admins.
+`React` `Node.js` `Express` `MongoDB` `TailwindCSS` `JWT`
 
-**Key Highlights:**
-- 🔑 Role-based authentication (Patient / Doctor / Admin) with JWT & protected routes
-- 📅 RESTful APIs for appointment booking, doctor workflows & patient management
-- 🖥️ Responsive dashboards tailored per role with modern UI/UX
-- 🏗️ Scalable architecture with optimized backend data flow & clean API integration
+- Built three distinct role-based portals (Patient · Doctor · Admin) with JWT-protected route access
+- Designed RESTful APIs covering appointment scheduling, patient records, and doctor availability management
+- Focused on scalable backend architecture with clean data-flow patterns and production-ready API integration
 
-</td>
-</tr>
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Vinay-vaja)
 
-<tr>
-<td width="100%" valign="top">
+<br/>
 
-### 🤖 Crowd Management System – AI-Powered Crowd Safety Platform *(Group Project)*
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+###  CrowdSafe — AI-Powered Crowd Safety Platform *(Team Project)*
 
-> An AI-driven real-time crowd monitoring and safety system built for pilgrimage sites, combining computer vision, ML forecasting, and live WebSocket dashboards.
+> Real-time crowd monitoring system for pilgrimage sites combining computer vision, LSTM forecasting, and role-based live dashboards. Achieved 99% ML prediction accuracy.
 
-**Key Highlights:**
-- 🎥 Computer vision pipeline (OpenCV) for real-time crowd detection & density estimation
-- 🧠 LSTM-based forecasting for future crowd prediction & automated alert generation
-- 📊 ML models (Random Forest) with **99% prediction accuracy** for pressure & risk classification
-- 📡 Real-time WebSocket communication powering live monitoring dashboards
-- 👥 Role-based frontends for police, transport & temple authorities
-- 🗄️ MongoDB integration for crowd records, alerts & real-time analytics storage
+`React` `TypeScript` `FastAPI` `Python` `OpenCV` `LSTM` `Random Forest` `MongoDB` `WebSockets`
 
-</td>
-</tr>
+- Built computer vision pipeline (OpenCV) for real-time crowd density estimation and anomaly detection
+- Developed LSTM forecasting model for predictive crowd pressure alerts with **99% classification accuracy**
+- Designed scalable WebSocket-powered dashboards with role-based views for police, transport, and temple authorities
+- Contributed across full stack: API design, ML model serving, frontend integration, and database architecture
 
-</table>
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Vinay-vaja)
+
+<br/>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinay-vaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-vaja&layout=donut&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="92%"/>
 
----
+<br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Vinay%20Vaja%20Contribution%20Graph&layout=compact" width="95%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Competitive Programming
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vinay-vaja&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="95%"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-vinayvaja1222-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vinayvaja1222)
+&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-vinayvaja2276-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vinayvaja2276)
+&nbsp;&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-vinayvaja2276-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vinayvaja2276)
 
 </div>
 
 ---
 
-## 🎯 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vinayvaja1222)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vinayvaja2276)
-&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vinayvaja2276)
-
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -251,20 +152,16 @@ Goal     : Build impactful real-world applications
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayvaja2276@gmail.com)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinayyy_vaja)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-vaja)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinayyy_vaja)
 
 </div>
 
----
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-⭐ If you find my work helpful, consider giving a star to my repositories!
-
-*"Keep learning, keep building, and never stop improving." 🚀*
-
+*Open to internships, collaborations, and full-stack / AI engineering roles.*
 </div>
