@@ -1,12 +1,8 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                        HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinay%20Vaja&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=550&lines=👨‍💻+Full+Stack+Web+Developer;📚+DSA+with+C%2B%2B+Enthusiast;🚀+Building+Real+World+Projects;🌱+Learning+MERN+Stack;🤝+Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=550&lines=👨‍💻+Full+Stack+Web+Developer;📚+DSA+with+C%2B%2B+Enthusiast;🚀+Building+Real+World+Projects;🌱+Learning+MERN+Stack;🤖+Exploring+AI+%26+LangChain;🤝+Open+Source+Contributor" />
 
 <br/>
 
@@ -28,7 +24,7 @@ Degree   : B.E. Computer Science & Engineering
 Location : Gujarat, India 🇮🇳
 
 Passion  : Full Stack Web Development
-Currently: Learning MERN Stack
+Currently: Learning MERN Stack + AI/ML Integration
 Hobbies  : Coding, Problem Solving, Open Source
 Goal     : Build impactful real-world applications
 ```
@@ -47,6 +43,7 @@ Goal     : Build impactful real-world applications
 - Full Stack Web Applications
 - MERN Stack Projects
 - REST APIs
+- AI-Integrated Applications
 
 </td>
 <td width="33%" valign="top">
@@ -54,7 +51,8 @@ Goal     : Build impactful real-world applications
 ### 🌱 Learning
 - React.js & React Router
 - Node.js & Express.js
-- MongoDB & Mongoose
+- MongoDB & PostgreSQL
+- LangChain & RAG Pipelines
 - Advanced DSA (C++)
 
 </td>
@@ -65,6 +63,7 @@ Goal     : Build impactful real-world applications
 - JavaScript (ES6+)
 - Frontend Development
 - Backend with Node.js
+- LangChain & AI Workflows
 
 </td>
 </tr>
@@ -77,41 +76,125 @@ Goal     : Build impactful real-world applications
 <div align="center">
 
 ### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" />
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark" />
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 
 ### ☁️ Deployment & Tools
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel&theme=dark" />
+&nbsp;
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" />
+&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
+
+---
+
+## 🏗️ Featured Projects
+
+<table width="100%">
+
+<tr>
+<td width="100%" valign="top">
+
+### 💬 ChatNova – Real-Time Chat & Video Calling Platform
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+> A production-grade MERN application enabling real-time messaging and HD video calling between users, with a fully responsive multi-themed interface.
+
+**Key Highlights:**
+- 🔐 Secure auth with JWT, OTP verification, password reset & bcrypt hashing
+- 📹 HD video calling integration via Stream SDK with low-latency communication
+- 🎨 32 switchable UI themes built with TailwindCSS + DaisyUI
+- ☁️ Cloud media uploads & storage managed through Cloudinary
+- ⚡ Optimized REST APIs, protected routes & efficient state management
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+### 🏥 Cura – Smart Hospital Appointment Management System
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+> A full-stack healthcare platform streamlining hospital appointment scheduling with role-based portals for patients, doctors, and admins.
+
+**Key Highlights:**
+- 🔑 Role-based authentication (Patient / Doctor / Admin) with JWT & protected routes
+- 📅 RESTful APIs for appointment booking, doctor workflows & patient management
+- 🖥️ Responsive dashboards tailored per role with modern UI/UX
+- 🏗️ Scalable architecture with optimized backend data flow & clean API integration
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+### 🤖 Crowd Management System – AI-Powered Crowd Safety Platform *(Group Project)*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+> An AI-driven real-time crowd monitoring and safety system built for pilgrimage sites, combining computer vision, ML forecasting, and live WebSocket dashboards.
+
+**Key Highlights:**
+- 🎥 Computer vision pipeline (OpenCV) for real-time crowd detection & density estimation
+- 🧠 LSTM-based forecasting for future crowd prediction & automated alert generation
+- 📊 ML models (Random Forest) with **99% prediction accuracy** for pressure & risk classification
+- 📡 Real-time WebSocket communication powering live monitoring dashboards
+- 👥 Role-based frontends for police, transport & temple authorities
+- 🗄️ MongoDB integration for crowd records, alerts & real-time analytics storage
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -130,7 +213,17 @@ Goal     : Build impactful real-world applications
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Vinay%20Vaja%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Vinay%20Vaja%20Contribution%20Graph&layout=compact" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vinay-vaja&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="95%"/>
 
 </div>
 
