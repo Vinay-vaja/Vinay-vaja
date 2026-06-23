@@ -163,5 +163,5 @@ Currently exploring MERN stack, LangChain/RAG, and AI-powered web apps while imp
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
 
-*Open to internships, collaborations, and full-stack / AI engineering roles.*
+*Open to internships,freelancing,collaborations, and full-stack / AI engineering roles.*
 </div>
