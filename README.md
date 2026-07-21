@@ -62,69 +62,81 @@ Currently exploring MERN stack, LangChain/RAG, and AI-powered web apps while imp
 
 ---
 
-##  Featured Projects
+<div align="center">
 
-<br/>
+## 🚀 Featured Projects
 
-### 💬 ChatNova — Real-Time Chat & Video Calling Platform
+</div>
 
-> Full-stack MERN communication platform with real-time messaging, HD video calling, and 32 switchable UI themes. Built with production-grade auth and cloud media handling.
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 💬 ChatNova
+
+**Real-Time Chat & Video Calling Platform**
+
+Full-stack MERN communication platform with real-time messaging, HD video calling, and 32 switchable UI themes. Built with production-grade auth and cloud media handling.
+
+[![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
 
 `React` `Node.js` `Express` `MongoDB` `Stream SDK` `TailwindCSS` `JWT` `Cloudinary`
 
-- Architected end-to-end real-time messaging and HD video calling using Stream SDK
-- Implemented layered authentication — JWT sessions, OTP verification, bcrypt hashing, and password reset flow
-- Integrated Cloudinary for scalable media uploads with optimized delivery
-- Delivered 32 live-switchable themes via TailwindCSS + DaisyUI with fully protected routes and clean state management
+</td>
+<td width="50%" valign="top" align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Vinay-vaja)
+### 🏥 Cura
 
-<br/>
+**Smart Hospital Appointment Management System**
 
----
+Role-based healthcare platform enabling patients, doctors, and admins to manage appointments through dedicated, responsive dashboards and secure API workflows.
 
-### 🏥 Cura — Smart Hospital Appointment Management System
-
-> Role-based healthcare platform enabling patients, doctors, and admins to manage appointments through dedicated, responsive dashboards and secure API workflows.
+[![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
 
 `React` `Node.js` `Express` `MongoDB` `TailwindCSS` `JWT`
 
-- Built three distinct role-based portals (Patient · Doctor · Admin) with JWT-protected route access
-- Designed RESTful APIs covering appointment scheduling, patient records, and doctor availability management
-- Focused on scalable backend architecture with clean data-flow patterns and production-ready API integration
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Vinay-vaja)
+### 🚨 CrowdSafe
 
-<br/>
+**AI-Powered Crowd Safety Platform** *(Team Project)*
 
----
+Real-time crowd monitoring system for pilgrimage sites combining computer vision, LSTM forecasting, and role-based live dashboards. Achieved **99% ML prediction accuracy**.
 
-###  CrowdSafe — AI-Powered Crowd Safety Platform *(Team Project)*
-
-> Real-time crowd monitoring system for pilgrimage sites combining computer vision, LSTM forecasting, and role-based live dashboards. Achieved 99% ML prediction accuracy.
+[![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
+[![TEAM](https://img.shields.io/badge/👥_TEAM_PROJECT-4A4A4A?style=for-the-badge)](https://github.com/Vinay-vaja)
 
 `React` `TypeScript` `FastAPI` `Python` `OpenCV` `LSTM` `Random Forest` `MongoDB` `WebSockets`
 
-- Built computer vision pipeline (OpenCV) for real-time crowd density estimation and anomaly detection
-- Developed LSTM forecasting model for predictive crowd pressure alerts with **99% classification accuracy**
-- Designed scalable WebSocket-powered dashboards with role-based views for police, transport, and temple authorities
-- Contributed across full stack: API design, ML model serving, frontend integration, and database architecture
+</td>
+<td width="50%" valign="top" align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Vinay-vaja)
+### 💼 VIBE
 
-<br/>
+**Student Internship & Career Platform**
+
+A centralized internship platform built for college students to discover verified internship opportunities, career resources, and industry updates in one place. Instead of searching across multiple websites, students can explore internships, apply directly, and stay informed — bridging the gap between students and employers by making internships more accessible, transparent, and student-friendly.
+
+[![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="92%"/>
 
 <br/>
-
 
 </div>
 
