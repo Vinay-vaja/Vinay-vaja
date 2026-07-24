@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Vinay%20Vaja&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20CSE%20@%20LD%20College%20(GTU)&descAlignY=52&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,50:C2547E,100:6C3483&height=200&section=header&text=Hi%2C%20I'm%20Vinay%20Vaja&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20CSE%20@%20LD%20College%20(GTU)&descAlignY=56&descSize=16"/>
 
 <br/>
 
@@ -220,7 +220,7 @@ A centralized internship platform built for college students to discover verifie
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:C2547E,100:F5A623&height=110&section=footer"/>
 
 *Open to internships, freelancing, collaborations, and full-stack / AI engineering roles.*
 </div>
