@@ -1,35 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Vinay%20Vaja&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20CSE%20@%20LD%20College%20(GTU)&descAlignY=58&descSize=15"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+production-grade+MERN+applications;Integrating+AI+with+LangChain+%26+RAG+pipelines;Competitive+programmer+%7C+DSA+with+C%2B%2B;Turning+ideas+into+scalable+full-stack+products" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Vinay%20Vaja&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20CSE%20@%20LD%20College%20(GTU)&descAlignY=52&descSize=16"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vinay-vaja&label=Profile+Views&color=36BCF7&style=flat-square)](https://github.com/Vinay-vaja)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Vinay-vaja?label=Followers&style=flat-square&color=36BCF7)](https://github.com/Vinay-vaja?tab=followers)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinay-vaja-jk1071472276)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-vinayvaja2276@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayvaja2276@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+production-grade+MERN+applications;Integrating+AI+with+LangChain+%26+RAG+pipelines;Competitive+programmer+%7C+DSA+with+C%2B%2B;Turning+ideas+into+scalable+full-stack+products" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Vinay-vaja">
+<img src="https://komarev.com/ghpvc/?username=Vinay-vaja&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/Vinay-vaja?tab=followers">
+<img src="https://img.shields.io/github/followers/Vinay-vaja?label=FOLLOWERS&style=for-the-badge&color=36BCF7&logo=github&logoColor=white"/>
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/vinay-vaja-jk1071472276">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td align="center">
+<a href="mailto:vinayvaja2276@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## About Me
+<br/>
 
-Hey 👋 I'm Vinay, a CSE student at LD College of Engineering (GTU), Gujarat. I enjoy building full-stack apps, experimenting with AI tools, and turning random ideas into real projects.
+## 🧭 About Me
 
-Currently exploring MERN stack, LangChain/RAG, and AI-powered web apps while improving my DSA & backend skills. Mostly building, learning, breaking things, and fixing them again 🚀
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-- 💻 Building cool full-stack MERN projects  
-- 🤖 Exploring AI + web development stuff  
-- ⚡ Solving DSA problems in C++  
-- 📫 Reach me at: **vinayvaja2276@gmail.com**
+Hey 👋 I'm **Vinay** — a CSE student at **LD College of Engineering (GTU)**, Gujarat, who loves turning ideas into working, full-stack products.
+
+I spend most of my time building with the **MERN stack**, wiring up **AI features with LangChain & RAG pipelines**, and sharpening my problem-solving with **DSA in C++**. Along the way I break a lot of things — and enjoy fixing them even more. 🚀
+
+```txt
+const vinay = {
+  role: "Full Stack Developer",
+  focus: ["MERN Stack", "AI Integration", "DSA"],
+  currentlyLearning: "LangChain / RAG pipelines",
+  funFact: "builds → breaks → fixes → repeats"
+};
+```
+
+</td>
+<td width="35%" valign="top" align="center">
+
+**⚡ Quick Facts**
+
+🎓 CSE @ LD College (GTU)
+💻 MERN Stack Developer
+🤖 AI + RAG Pipelines
+🧠 DSA with C++
+📫 `vinayvaja2276@gmail.com`
+🌱 Always shipping something new
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🛠 Tech Stack
 
@@ -175,5 +222,5 @@ A centralized internship platform built for college students to discover verifie
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
 
-*Open to internships,freelancing,collaborations, and full-stack / AI engineering roles.*
+*Open to internships, freelancing, collaborations, and full-stack / AI engineering roles.*
 </div>
