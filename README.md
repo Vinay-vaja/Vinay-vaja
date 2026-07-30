@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,50:C2547E,100:6C3483&height=200&section=header&text=Hi%2C%20I'm%20Vinay%20Vaja&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20CSE%20@%20LD%20College%20(GTU)&descAlignY=56&descSize=16"/>
+# Hi There! 👋 I'm Vinay Vaja
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+production-grade+MERN+applications;Integrating+AI+with+LangChain+%26+RAG+pipelines;Competitive+programmer+%7C+DSA+with+C%2B%2B;Turning+ideas+into+scalable+full-stack+products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Integrating+AI+with+LangChain+%26+RAG;Building+production-grade+MERN+applications;Exploring+Agentic+AI+%26+Machine+Learning;Turning+ideas+into+scalable+full-stack+products" />
 
 <br/><br/>
 
@@ -15,6 +13,8 @@
 <img src="https://komarev.com/ghpvc/?username=Vinay-vaja&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge"/>
 </a>
 </td>
+
+### A passionate developer from India 🇮🇳
 <td align="center">
 <a href="https://github.com/Vinay-vaja?tab=followers">
 <img src="https://img.shields.io/github/followers/Vinay-vaja?label=FOLLOWERS&style=for-the-badge&color=36BCF7&logo=github&logoColor=white"/>
@@ -22,12 +22,12 @@
 </td>
 <td align="center">
 <a href="https://www.linkedin.com/in/vinay-vaja-jk1071472276">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
 <td align="center">
 <a href="mailto:vinayvaja2276@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-SAY_HI-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -49,13 +49,13 @@
 
 Hey 👋 I'm **Vinay** — a CSE student at **LD College of Engineering (GTU)**, Gujarat, who loves turning ideas into working, full-stack products.
 
-I spend most of my time building with the **MERN stack**, wiring up **AI features with LangChain & RAG pipelines**, and sharpening my problem-solving with **DSA in C++**. Along the way I break a lot of things — and enjoy fixing them even more. 🚀
+I spend most of my time building with the **MERN stack**, wiring up **AI features with LangChain & RAG pipelines**, and sharpening my problem-solving with **DSA in C++**. Right now I'm diving deeper into **Agentic AI & Machine Learning**. Along the way I break a lot of things — and enjoy fixing them even more. 🚀
 
 ```txt
 const vinay = {
   role: "Full Stack Developer",
   focus: ["MERN Stack", "AI Integration", "DSA"],
-  currentlyLearning: "LangChain / RAG pipelines",
+  currentlyLearning: "Agentic AI / Machine Learning",
   funFact: "builds → breaks → fixes → repeats"
 };
 ```
@@ -68,6 +68,7 @@ const vinay = {
 🎓 CSE @ LD College (GTU)
 💻 MERN Stack Developer
 🤖 AI + RAG Pipelines
+🧬 Learning Agentic AI & ML
 🧠 DSA with C++
 📫 `vinayvaja2276@gmail.com`
 🌱 Always shipping something new
@@ -101,6 +102,7 @@ const vinay = {
 &nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8E44AD?style=flat-square&logo=robotframework&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
@@ -189,38 +191,24 @@ A centralized internship platform built for college students to discover verifie
 
 ---
 
-## 🎯 Competitive Programming
-
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-vinayvaja1222-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vinayvaja1222)
-&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-vinayvaja2276-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vinayvaja2276)
-&nbsp;&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-vinayvaja2276-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vinayvaja2276)
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-vaja-jk1071472276)
+[![GMAIL](https://img.shields.io/badge/📧_GMAIL-D14836?style=for-the-badge&labelColor=D14836&color=D14836)](mailto:vinayvaja2276@gmail.com)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayvaja2276@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/vinay-vaja-jk1071472276)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-vaja)
+[![GITHUB](https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&labelColor=181717&color=181717)](https://github.com/Vinay-vaja)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinayyy_vaja)
+[![INSTAGRAM](https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&labelColor=E4405F&color=E4405F)](https://instagram.com/vinayyy_vaja)
 
-</div>
+- Email: [vinayvaja2276@gmail.com](mailto:vinayvaja2276@gmail.com)
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:C2547E,100:F5A623&height=110&section=footer"/>
+### 💼 Open to internships, freelancing, and full-stack / AI engineering roles
 
-*Open to internships, freelancing, collaborations, and full-stack / AI engineering roles.*
+**Let's build something great together — reach out anytime.**
+
+![Thanks](https://img.shields.io/badge/Thanks_for_visiting-%E2%9D%A4-C2547E?style=for-the-badge)
+
 </div>
