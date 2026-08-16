@@ -149,7 +149,7 @@ Role-based healthcare platform enabling patients, doctors, and admins to manage 
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🚨 CrowdSafe
+### 🚨 SpreadAI
 
 **AI-Powered Crowd Safety Platform** *(Team Project)*
 
