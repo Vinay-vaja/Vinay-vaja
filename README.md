@@ -121,15 +121,15 @@ const vinay = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 💬 ChatNova
+### 📋 SurveySync
 
-**Real-Time Chat & Video Calling Platform**
+**Smart Survey & Feedback Management Platform**
 
-Full-stack MERN communication platform with real-time messaging, HD video calling, and 32 switchable UI themes. Built with production-grade auth and cloud media handling.
+Full-stack survey management platform for building dynamic surveys, collecting responses, and analyzing feedback. Features secure authentication, customizable questionnaires, response analytics, and a cross-platform mobile experience.
 
 [![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
 
-`React` `Node.js` `Express` `MongoDB` `Stream SDK` `TailwindCSS` `JWT` `Cloudinary`
+`React Native` `Expo` `Node.js` `Express` `MongoDB` `JWT` `REST API`
 
 </td>
 <td width="50%" valign="top" align="center">
