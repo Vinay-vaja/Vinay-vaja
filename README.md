@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi There! 👋 I'm Vinay Vaja
+# Hii There! 👋 I'm Vinay Vaja
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Integrating+AI+with+LangChain+%26+RAG;Building+production-grade+MERN+applications;Exploring+Agentic+AI+%26+Machine+Learning;Turning+ideas+into+scalable+full-stack+products" />
 
