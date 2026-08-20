@@ -47,7 +47,7 @@
 <tr>
 <td width="65%" valign="top">
 
-Hey 👋 I'm **Vinay** — a CSE student at **LD College of Engineering (GTU)**, Gujarat, who loves turning ideas into working, full-stack products.
+Hey 👋 I'm **Vinay** — a CSE student at **LD College of Engineering (GTU)**, Gujarat, who loves turning ideas into working, full-stack,app and AI products.
 
 I spend most of my time building with the **MERN stack**, wiring up **AI features with LangChain & RAG pipelines**, and sharpening my problem-solving with **DSA in C++**. Right now I'm diving deeper into **Agentic AI & Machine Learning**. Along the way I break a lot of things — and enjoy fixing them even more. 🚀
 
