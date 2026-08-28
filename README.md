@@ -184,7 +184,6 @@ A centralized internship platform built for college students to discover verifie
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="92%"/>
-
 <br/>
 
 </div>
