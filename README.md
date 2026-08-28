@@ -183,7 +183,7 @@ A centralized internship platform built for college students to discover verifie
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/36BCF7/Vinay-vaja" alt="Vinay's GitHub contribution chart" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="92%"/>
 
 <br/>
 
