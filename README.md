@@ -177,13 +177,19 @@ A centralized internship platform built for college students to discover verifie
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-vaja&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vinay-vaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="46%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="92%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Vinay-vaja&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="92%"/>
+
 <br/>
 
 </div>
