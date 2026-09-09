@@ -127,7 +127,6 @@ const vinay = {
 
 Full-stack survey management platform for building dynamic surveys, collecting responses, and analyzing feedback. Features secure authentication, customizable questionnaires, response analytics, and a cross-platform mobile experience.
 
-[![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
 
 `React Native` `Expo` `Node.js` `Express` `MongoDB` `JWT` `REST API`
 
@@ -140,7 +139,6 @@ Full-stack survey management platform for building dynamic surveys, collecting r
 
 Role-based healthcare platform enabling patients, doctors, and admins to manage appointments through dedicated, responsive dashboards and secure API workflows.
 
-[![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
 
 `React` `Node.js` `Express` `MongoDB` `TailwindCSS` `JWT`
 
@@ -155,7 +153,7 @@ Role-based healthcare platform enabling patients, doctors, and admins to manage 
 
 Real-time crowd monitoring system for pilgrimage sites combining computer vision, LSTM forecasting, and role-based live dashboards. Achieved **99% ML prediction accuracy**.
 
-[![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
+
 [![TEAM](https://img.shields.io/badge/👥_TEAM_PROJECT-4A4A4A?style=for-the-badge)](https://github.com/Vinay-vaja)
 
 `React` `TypeScript` `FastAPI` `Python` `OpenCV` `LSTM` `Random Forest` `MongoDB` `WebSockets`
@@ -169,7 +167,7 @@ Real-time crowd monitoring system for pilgrimage sites combining computer vision
 
 A centralized internship platform built for college students to discover verified internship opportunities, career resources, and industry updates in one place. Instead of searching across multiple websites, students can explore internships, apply directly, and stay informed — bridging the gap between students and employers by making internships more accessible, transparent, and student-friendly.
 
-[![SOURCE](https://img.shields.io/badge/📁_SOURCE-F5A623?style=for-the-badge&labelColor=F5A623&color=F5A623)](https://github.com/Vinay-vaja)
+
 
 </td>
 </tr>
