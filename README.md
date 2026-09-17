@@ -121,7 +121,7 @@ const vinay = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🏥 MediBook
+### 🏥 MediBook — Cura
 
 **AI-Augmented Healthcare SaaS Platform**
 
