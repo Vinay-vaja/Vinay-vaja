@@ -121,44 +121,54 @@ const vinay = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 📋 SurveySync
+### 🏥 MediBook
 
-**Smart Survey & Feedback Management Platform**
+**AI-Augmented Healthcare SaaS Platform**
 
-Full-stack survey management platform for building dynamic surveys, collecting responses, and analyzing feedback. Features secure authentication, customizable questionnaires, response analytics, and a cross-platform mobile experience.
+Healthcare management platform with intelligent appointment scheduling, queue optimization, emergency triage, and AI-powered appointment suggestions. Built real-time cross-role communication with secure authentication and role-based access control.
 
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT` `LLM APIs` `Cloudinary`
 
-`React Native` `Expo` `Node.js` `Express` `MongoDB` `JWT` `REST API`
+<br>
+
+[![LIVE SITE](https://img.shields.io/badge/🌐_LIVE_SITE-Visit_App-2ea44f?style=for-the-badge)](https://appointment-system-ochre.vercel.app/)
 
 </td>
+
 <td width="50%" valign="top" align="center">
 
-### 🏥 Cura
+### 📱 Curio EdTech Mobile App
 
-**Smart Hospital Appointment Management System**
+**Interactive AI-Powered Learning Platform** *(Team Project)*
 
-Role-based healthcare platform enabling patients, doctors, and admins to manage appointments through dedicated, responsive dashboards and secure API workflows.
+React Native learning platform for 11th–12th grade students, combining interactive 3D science models, AI-driven learning workflows, and backend services to create an engaging digital learning experience.
 
+`React Native` `Node.js` `MongoDB` `REST APIs` `3D Models` `AI`
 
-`React` `Node.js` `Express` `MongoDB` `TailwindCSS` `JWT`
+<br>
+
+[![LIVE SITE](https://img.shields.io/badge/🌐_LIVE_SITE-Visit_App-2ea44f?style=for-the-badge)](https://www.curioteach.com)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🚨 SpreadAI
+### 💼 PeoplePay360
 
-**AI-Powered Crowd Safety Platform** *(Team Project)*
+**AI-Powered HR & Payroll Automation Platform**
 
-Real-time crowd monitoring system for pilgrimage sites combining computer vision, LSTM forecasting, and role-based live dashboards. Achieved **99% ML prediction accuracy**.
+Full-stack HR and payroll platform supporting 280+ employees across attendance, leave, payroll, payslips, and notifications. Designed 19+ interconnected database models and deployed the production system using AWS infrastructure.
 
+`React` `Node.js` `Express.js` `PostgreSQL` `Prisma` `AWS` `Nginx`
 
-[![TEAM](https://img.shields.io/badge/👥_TEAM_PROJECT-4A4A4A?style=for-the-badge)](https://github.com/Vinay-vaja)
+<br>
 
-`React` `TypeScript` `FastAPI` `Python` `OpenCV` `LSTM` `Random Forest` `MongoDB` `WebSockets`
+[![LIVE SITE](https://img.shields.io/badge/🌐_LIVE_SITE-Visit_App-2ea44f?style=for-the-badge)](https://peoplepay360-erp.vercel.app/)
 
 </td>
+
 <td width="50%" valign="top" align="center">
 
 ### 💼 VIBE
@@ -167,7 +177,9 @@ Real-time crowd monitoring system for pilgrimage sites combining computer vision
 
 A centralized internship platform built for college students to discover verified internship opportunities, career resources, and industry updates in one place. Instead of searching across multiple websites, students can explore internships, apply directly, and stay informed — bridging the gap between students and employers by making internships more accessible, transparent, and student-friendly.
 
+<br>
 
+[![LIVE SITE](https://img.shields.io/badge/🌐_LIVE_SITE-Visit_App-2ea44f?style=for-the-badge)](https://vibe-platform-zeta.vercel.app/#)
 
 </td>
 </tr>
