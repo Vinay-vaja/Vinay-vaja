@@ -137,7 +137,7 @@ Healthcare management platform with intelligent appointment scheduling, queue op
 
 <td width="50%" valign="top" align="center">
 
-### 📱 Curio EdTech Mobile App
+### 📱 Curio EdTech Platform 
 
 **Interactive AI-Powered Learning Platform** *(Team Project)*
 
