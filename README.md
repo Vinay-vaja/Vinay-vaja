@@ -143,7 +143,7 @@ Healthcare management platform with intelligent appointment scheduling, queue op
 
 It is learning platform for 11th–12th grade students, combining interactive 3D science models, AI-driven learning workflows, and backend services to create an engaging digital learning experience.
 
-`React Native` `Node.js` `MongoDB` `REST APIs` `3D Models` `AI`
+`React` `Node.js` `MongoDB` `REST APIs` `3D Models` `RAG Based pipeline` `Voice AI` `AWS and Docker`
 
 <br>
 
