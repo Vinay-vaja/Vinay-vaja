@@ -139,9 +139,9 @@ Healthcare management platform with intelligent appointment scheduling, queue op
 
 ### 📱 Curio EdTech Platform 
 
-**Interactive AI-Powered Learning Platform** *(Team Project)*
+**Interactive AI-Powered Learning Platform** *(Live Project / Live product)*
 
-React Native learning platform for 11th–12th grade students, combining interactive 3D science models, AI-driven learning workflows, and backend services to create an engaging digital learning experience.
+It is learning platform for 11th–12th grade students, combining interactive 3D science models, AI-driven learning workflows, and backend services to create an engaging digital learning experience.
 
 `React Native` `Node.js` `MongoDB` `REST APIs` `3D Models` `AI`
 
