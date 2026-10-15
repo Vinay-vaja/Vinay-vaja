@@ -139,7 +139,7 @@ Healthcare management platform with intelligent appointment scheduling, queue op
 
 ### 📱 Curio EdTech Platform 
 
-**Interactive AI-Powered Learning Platform** *(Live Project / Live product)*
+**Interactive AI-Powered EdTech Platform** *(Live Project / Live product)*
 
 It is learning platform for 11th–12th grade students, combining interactive 3D science models, AI-driven learning workflows, and backend services to create an engaging digital learning experience.
 
