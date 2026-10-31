@@ -15,6 +15,14 @@
 </td>
 
 ### A passionate developer from India 🇮🇳
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Vinay-vaja">
+<img src="https://komarev.com/ghpvc/?username=Vinay-vaja&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge"/>
+</a>
+</td>
 <td align="center">
 <a href="https://github.com/Vinay-vaja?tab=followers">
 <img src="https://img.shields.io/github/followers/Vinay-vaja?label=FOLLOWERS&style=for-the-badge&color=36BCF7&logo=github&logoColor=white"/>
@@ -39,43 +47,43 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br/>
-
 ## 🧭 About Me
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+I'm **Vinay**, a Computer Science student at **LD College of Engineering (GTU)**, Gujarat. I build full-stack web apps and AI-powered products, from the first idea to a live deployment.
 
-Hey 👋 I'm **Vinay** — a CSE student at **LD College of Engineering (GTU)**, Gujarat, who loves turning ideas into working, full-stack website,app and AI products.
+Most of my time goes into four things:
 
-I spend most of my time building with the **MERN stack**, wiring up **AI features with LangChain & RAG pipelines,Agentic Ai and deploy on clouds**, and sharpening my problem-solving with **DSA in C++**. Right now I'm diving deeper into **Agentic AI & Machine Learning**. Along the way I break a lot of things — and enjoy fixing them even more. 🚀
+> **🌐 MERN Stack** — building complete web apps with React, Node, Express and MongoDB
+> **🧩 LangChain & LangGraph** — building LLM apps and RAG pipelines that answer from real data
+> **🤖 Agentic AI** — designing AI agents that plan, use tools and complete multi-step tasks
+> **☁️ AWS Cloud** — learning to deploy and scale applications the production way
 
-```txt
+I also practice **DSA in C++** regularly to sharpen my problem-solving. I break a lot of things along the way, and I enjoy fixing them even more. 🚀
+
+```js
 const vinay = {
   role: "Full Stack Developer",
-  focus: ["MERN Stack", "AI Integration", "DSA"],
-  currentlyLearning: "Agentic AI / Machine Learning",
+  education: "CSE @ LD College of Engineering (GTU)",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  ai: ["LangChain", "LangGraph", "RAG", "AI Agents"],
+  cloud: ["AWS", "Vercel", "Render"],
+  problemSolving: "DSA with C++",
+  currentlyLearning: ["Agentic AI", "Machine Learning", "AWS Cloud"],
   funFact: "builds → breaks → fixes → repeats"
 };
 ```
 
-</td>
-<td width="35%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-**⚡ Quick Facts**
+## 🎯 What I'm Focused On
 
-🎓 CSE @ LD College (GTU)
-💻 MERN Stack Developer
-🤖 AI + RAG Pipelines
-🧬 Learning Agentic AI & ML
-🧠 DSA with C++
-📫 `vinayvaja2276@gmail.com`
-🌱 Always shipping something new
-
-</td>
-</tr>
-</table>
+| | Focus | What I'm doing |
+|:-:|:--|:--|
+| 🌐 | **Full-Stack Development** | Building end-to-end MERN apps with authentication, REST APIs and responsive UIs |
+| 🧩 | **LLM Apps & RAG** | Connecting LLMs to my own data using LangChain and retrieval pipelines |
+| 🤖 | **Agentic AI** | Building stateful, multi-step agent workflows with LangGraph |
+| ☁️ | **Cloud (AWS)** | Learning to deploy, host and scale apps on AWS |
+| 🧠 | **Problem Solving** | Practicing DSA in C++ to write cleaner, faster code |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -83,33 +91,45 @@ const vinay = {
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark&perline=6" />
-
-<br/><br/>
-
-**Frontend &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Databases**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,express,fastapi,mongodb,mysql,postgres&theme=dark&perline=11" />
+### 🌐 MERN Stack
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=4" />
 
 <br/><br/>
 
-**AI / ML &nbsp;·&nbsp; Tools &nbsp;·&nbsp; Cloud**
+### 🤖 AI & Agentic Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8E44AD?style=for-the-badge&logo=robotframework&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma,netlify,vercel&theme=dark&perline=7" />
+<br/><br/>
 
-&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6B35?style=flat-square&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-8E44AD?style=flat-square&logo=robotframework&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+### ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify&theme=dark&perline=3" />
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+<br/><br/>
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts&theme=dark&perline=6" />
+
+<br/><br/>
+
+### 🗄️ Databases & Backend
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,fastapi&theme=dark&perline=4" />
+
+<br/><br/>
+
+### 🎨 Frontend & Tools
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,git,github,vscode,figma&theme=dark&perline=8" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 <div align="center">
 
